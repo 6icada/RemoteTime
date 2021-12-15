@@ -13,7 +13,7 @@ except:
 # MakeSocket function
 def MakeSocket():
     # Adding vars
-    HOST = '127.0.0.1'
+    HOST = '0.0.0.0'
     PORT = 4444
     clients = []
     clientsHistory = []
